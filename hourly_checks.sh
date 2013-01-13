@@ -1,4 +1,4 @@
-cd ~/jobs/hourly_checks/
+cd ~/jobs/site-check-basic/
 
 touch last_run_time.txt
 
