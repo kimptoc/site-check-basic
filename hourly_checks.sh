@@ -1,5 +1,12 @@
 cd ~/jobs/site-check-basic/
 
+# setup
+#  sudo service sendmail stop
+#  sudo apt-get remove sendmail
+#  sudo apt-get install postfix -- setup for internet host
+#  sudo vi /etc/postfix/main.cf -- ensure domain names correct
+#  sudo service postfix start
+
 touch last_run_time.txt
 
 
