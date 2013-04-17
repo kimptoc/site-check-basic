@@ -18,7 +18,7 @@ sh check_url.sh http://home.kimptoc.net:8080/ chris.kimpton@rabobank.com
 sh check_url.sh http://home.kimptoc.net:8080/ chris@kimptoc.net
 
 #sh check_url.sh http://tagadab.kimptoc.net/ chris@kimptoc.net
-sh check_url.sh http://stormvz1.kimptoc.net/ chris@kimptoc.net
+#sh check_url.sh http://stormvz1.kimptoc.net/ chris@kimptoc.net
 sh check_url.sh http://liquid1.kimptoc.net/ chris@kimptoc.net
 #sh check_url.sh http://liquid2.kimptoc.net/ chris@kimptoc.net
 sh check_url.sh http://allyourvps1.kimptoc.net/ chris@kimptoc.net
