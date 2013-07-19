@@ -23,7 +23,7 @@ sh check_url.sh http://liquid1.kimptoc.net/ chris@kimptoc.net
 #sh check_url.sh http://liquid2.kimptoc.net/ chris@kimptoc.net
 sh check_url.sh http://allyourvps1.kimptoc.net/ chris@kimptoc.net
 sh check_url.sh http://overzold1.kimptoc.net/ chris@kimptoc.net
-sh check_url.sh http://getkvm1.kimptoc.net/ chris@kimptoc.net
+#sh check_url.sh http://getkvm1.kimptoc.net/ chris@kimptoc.net
 sh check_url.sh http://rhs1.kimptoc.net/ chris@kimptoc.net
 
 sh check_url.sh http://wowactivity.kimptoc.net/ chris@kimptoc.net
