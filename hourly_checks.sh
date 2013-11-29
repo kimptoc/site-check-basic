@@ -33,4 +33,4 @@ sh check_url.sh http://hummingnow.com/ chris@kimptoc.net
 
 sh check_url.sh http://www.richleememorial.com/ chris@kimptoc.net
 
-sh check_url.sh http://www.stumblingwithgod.me/Stumbling_with_God/Home.html chris@kimptoc.net
+#sh check_url.sh http://www.stumblingwithgod.me/Stumbling_with_God/Home.html chris@kimptoc.net
