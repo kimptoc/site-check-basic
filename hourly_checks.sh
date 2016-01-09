@@ -29,7 +29,7 @@ sh check_url.sh http://ssdvps1.kimptoc.net/ chris@kimptoc.net
 
 sh check_url.sh http://wowactivity.kimptoc.net/ chris@kimptoc.net
 
-sh check_url.sh http://hummingnow.com/ chris@kimptoc.net
+#sh check_url.sh http://hummingnow.com/ chris@kimptoc.net
 
 sh check_url.sh http://www.richleememorial.com/ chris@kimptoc.net
 
