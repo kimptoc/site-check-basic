@@ -14,7 +14,7 @@ SUPPORTEMAIL=chris@kimptoc.net
 
 
 
-sh check_url.sh http://home.kimptoc.net:8080/ chris.kimpton@rabobank.com
+#sh check_url.sh http://home.kimptoc.net:8080/ chris.kimpton@rabobank.com
 sh check_url.sh http://home.kimptoc.net:8080/ chris@kimptoc.net
 
 #sh check_url.sh http://tagadab.kimptoc.net/ chris@kimptoc.net
